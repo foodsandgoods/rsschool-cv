@@ -1,1 +1,1 @@
-# rsschool-cv
+https://foodsandgoods.github.io/rsschool-cv/

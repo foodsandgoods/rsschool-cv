@@ -1,0 +1,101 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 3rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 20px auto;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.ava {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.education-row {
+  width: 70%;
+  margin: 20px auto 50px auto;
+  text-align: left;
+}
+
+.intro {
+  width: 70%;
+  margin: auto;
+}
+
+.contact-github {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+.rslogo-img {
+  position: absolute;
+  right: 5%;
+  width: 10%;
+}
+
+.logo-img {
+  width: 20%;
+  float: left;
+  margin-right: 10px;
+}
