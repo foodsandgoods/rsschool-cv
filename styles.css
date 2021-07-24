@@ -97,7 +97,14 @@ a:hover {
 .logo-img {
   width: 20%;
   float: left;
-  margin-right: 10px;
+  margin-right: 20px;
+}
+
+.logo1-img {
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+  padding-bottom: 130px;
 }
 
 .ulno-bullets {
