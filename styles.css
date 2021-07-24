@@ -52,17 +52,15 @@ a:hover {
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 100px;
 }
 
 .middle-container {
-  margin: 100px 0;
+  /* margin: 100px 0; */
 
 }
 
 .bottom-container {
   background-color: #66BFBF;
-  padding: 50px 0 20px;
 }
 
 .education-row {
@@ -85,6 +83,7 @@ a:hover {
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
+  margin: 0;
 }
 
 
@@ -92,10 +91,18 @@ a:hover {
   position: absolute;
   right: 5%;
   width: 10%;
+  padding-top: 20px;
 }
 
 .logo-img {
   width: 20%;
   float: left;
   margin-right: 10px;
+}
+
+.ulno-bullets {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
 }
